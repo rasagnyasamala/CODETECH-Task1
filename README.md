@@ -1,9 +1,9 @@
-**Name:** SAMALA RASAGNYA
-**Company:** CODETECH IT SOLUTIONS
-**ID:** CT08DS10186
-**Domain:** PYTHON PROGRAMMING
-**Duration:** November to December2024
-**Mentor:** Neela santhosh
+**Name:** SAMALA RASAGNYA.
+**Company:** CODETECH IT SOLUTIONS.
+**ID:** CT08DS10186.
+**Domain:** PYTHON PROGRAMMING.
+**Duration:** November to December2024.
+**Mentor:** Neela santhosh.
 
 
 ## Overview of the project
